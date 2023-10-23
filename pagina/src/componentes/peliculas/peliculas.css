@@ -1,0 +1,24 @@
+.peliculas {
+    background-color: rgb(144, 244, 210);
+    margin: 0px;
+    width: 100%;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+.titlePeliculas{
+    color: #000000e0;
+    text-align: center;
+    font-family: Permanent Marker;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px;
+}
+
+.contenedor{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

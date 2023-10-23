@@ -1,0 +1,17 @@
+.lista-opciones{
+    display: block;
+    font-size: 18px;
+    font-weight: 600px;
+    font-family: 'Indie Flowe',cursive;
+    margin-bottom: 8px;
+    color: rgb(37, 157, 173);
+}
+.lista-opciones select{
+    width: 107%;
+    background-color: #ffff;
+    box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.06);
+    padding: 10px;
+    border: none;
+    font-size: 16px;
+    color: rgb(37, 157, 173);
+}

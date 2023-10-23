@@ -1,18 +1,21 @@
-.fornulario{
+.formulario{
     display: flex;
     justify-content: center;
-    margin: 80px 0px;
-
+    margin: 40px 0px;
+    border-color: rgb(236, 13, 13);
 }
-.fornulario form{
-    max-width: 80%;
-    background-color: #f6f6f6;
-    box-shadow: 7px 7px 15px rgba(0, 0, 25%);
+.formulario form{
+    max-width: 20%;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    box-shadow: 7px 7px 15px 0px rgba(0, 0,0, 25%);
     border-radius: 20px;
     padding: 8px 100px;
+    justify-content: center;
+    text-align: center;
+    
 }
-.fornulario h2{
+.formulario h2{
     font-size: 20p;
     font-weight: 30px;
-    background-color: #212121;
+    color: rgb(37, 157, 173);
 }
